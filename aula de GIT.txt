@@ -1,0 +1,10 @@
+https://www.youtube.com/watch?v=OuOb1_qADBQ
+
+comandos.
+
+Git init ( inicializa o diretorio atual no controle - prepatratório)
+
+Git status ( mostra oconteudo do diretorio e o estado - adicionado ou não)
+
+Git add <nome do arquivo> ou  --A  adiciona novos aquivo ao controle
+git commit (envia o arquivo para o controle
